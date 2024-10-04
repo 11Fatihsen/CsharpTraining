@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\OneDrive\\Desktop\\C#\\CsharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD01CE9-74BA-436B-AA64-BEA88EC26986}|02_Variables\\02_Variables.csproj|c:\\users\\fatih\\onedrive\\desktop\\c#\\csharpegitimkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD01CE9-74BA-436B-AA64-BEA88EC26986}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBA3174-0FC5-4DC6-B579-0E52C1F28381}|01_MainSubjects\\01_MainSubjects.csproj|c:\\users\\fatih\\onedrive\\desktop\\c#\\csharpegitimkampi\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA3174-0FC5-4DC6-B579-0E52C1F28381}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\OneDrive\\Desktop\\C#\\CsharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\OneDrive\\Desktop\\C#\\CsharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:15:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\OneDrive\\Desktop\\C#\\CsharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\OneDrive\\Desktop\\C#\\CsharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwDEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:27:18.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
